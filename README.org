@@ -1,0 +1,9 @@
+#+TITLE: README
+#+AUTHOR: amoblin
+#+EMAIL: amoblin@gmail.com
+#+DATE: 2014-05-09 15:21:37
+#+OPTIONS: ^:{}
+
+* 请修改模版文件
+** This file is created from ~/.marboo/source/media/file_init/default.init.py
+** 本文件由 ~/.marboo/source/media/file_init/default.init.py 复制而来
